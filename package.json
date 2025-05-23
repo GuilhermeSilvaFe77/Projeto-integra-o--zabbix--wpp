@@ -1,0 +1,26 @@
+{
+  "name": "zabbix-whatsapp-integration-free",
+  "version": "1.0.0",
+  "description": "Integração gratuita entre Zabbix e WhatsApp usando WPPConnect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zabbix",
+    "whatsapp",
+    "wppconnect",
+    "integration",
+    "alert",
+    "monitoring"
+  ],
+  "author": "Manus",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.29.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "puppeteer": "^24.9.0"
+  }
+}
