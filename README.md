@@ -11,11 +11,8 @@ Este guia explica como configurar e usar a integração entre Zabbix e WhatsApp 
 
 ## Instalação
 
-1. Clone o repositório ou extraia os arquivos em uma pasta de sua preferência:
+1. Extraia os arquivos em uma pasta de sua preferência
 
-```bash
-git clone https://github.com/seu-usuario/zabbix-whatsapp-integration-free.git
-cd zabbix-whatsapp-integration-free
 ```
 
 2. Instale as dependências do Node.js:
